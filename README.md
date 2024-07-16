@@ -1,1 +1,1 @@
-# su20-lab-starter
+# su20-lab
